@@ -31,13 +31,13 @@ Source data was collected from the UCI Machine Learning Repository
 
 9. Combine the data frames to produce one data frame containing the subjects, measurements and activities 
 
-10. Produce "merged_tidy_data.txt" with the combined data frame as the first expected output 
+10. Produce "merged_tidy_data.txt" with the combined data frame as the first output 
 
 11. Create another data set using the data.table library to easily group the tidy data by subject and activity 
 
 12. Apply the mean and standard deviation calculations across the groups 
 
-13. Write "calculated_tidy_data.txt" 
+13. Write "calculated_tidy_data.txt" as second output
 
 See run_analysis.R for further details 
  
