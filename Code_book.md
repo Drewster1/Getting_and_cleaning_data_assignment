@@ -179,3 +179,6 @@ See run_analysis.R for further details
 
 • fBodyBodyGyroJerkMag-std 
 
+## More Information
+
+• Data description avaialble from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
