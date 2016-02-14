@@ -1,5 +1,9 @@
-Code_Book.md 
- 
+# Getting_and_cleaning_data_assignment
+
+Code_Book.md
+
+Coursera Course: Getting and Cleaning Data
+
 ##The following code book includes: 
 
 • information about the source data 
