@@ -1,5 +1,5 @@
 # Getting_and_cleaning_data_assignment
-Getting and Cleaning Data Assignment
+
 Coursera Course: Getting and Cleaning Data
 
 #Assignment Submission Files
@@ -24,8 +24,8 @@ Coursera Course: Getting and Cleaning Data
 
 #Dependencies
 
-1. R script assumes 'data.table' has been installed using install.packages("data.table")
+• R script assumes 'data.table' has been installed using install.packages("data.table")
 
 #More Information
 
-1. Data description avaialble from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+• Data description avaialble from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
