@@ -1,5 +1,7 @@
 # Getting_and_cleaning_data_assignment
 
+README.md
+
 Coursera Course: Getting and Cleaning Data
 
 ##Assignment Submission Files
