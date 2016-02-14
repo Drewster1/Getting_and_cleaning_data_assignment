@@ -2,13 +2,15 @@
 Getting and Cleaning Data Assignment
 Coursera Course: Getting and Cleaning Data
 
-Assignment Submission Files
+#Assignment Submission Files
 
-•run_analysis.R
-•README.md
-•Code_book.md
+• run_analysis.R
 
-Steps
+• README.md
+
+• Code_book.md
+
+#Steps
 
 1.Download the data from, https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -20,10 +22,10 @@ Steps
 
 5.Run the R script using run_analysis() and after execution of the function has finished, you will see that merged_tidy_data.txt and calculated_tidy_data.txt are the new outputs
 
-Dependencies
+#Dependencies
 
 1.R script assumes 'data.table' has been installed using install.packages("data.table")
 
-More Information
+#More Information
 
-Data description avaialble at http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+Data description avaialble from http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
